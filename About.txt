@@ -1,0 +1,17 @@
+About
+Operations Overview
+Text to Speech:
+The 'Text to Speech' tab allows you to convert entered text into speech. Choose a language and adjust the speed to convert text into audio files.
+
+Text to PDF:
+In the 'Text to PDF' tab, you can convert entered text into a downloadable PDF file.
+
+Word to PDF:
+The 'Word to PDF' tab enables you to upload a Word document and convert it to a PDF file.
+
+Requirements
+Python 3.7+
+Streamlit
+gTTS (Google Text-to-Speech)
+FPDF
+docx2pdf
